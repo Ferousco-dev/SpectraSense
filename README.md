@@ -1,3 +1,4 @@
+<img width="1520" height="1840" alt="smartglasses_detector_logo" src="https://github.com/user-attachments/assets/7f364be3-c920-463e-9089-5a9808eef158" />
 # SpectraSense
 
 Detect nearby smart glasses and recording-capable wearables from **public Bluetooth signals**. Starting with Ray-Ban Meta.
