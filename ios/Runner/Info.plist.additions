@@ -1,0 +1,7 @@
+<!-- Add these keys to ios/Runner/Info.plist -->
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>SpectraSense scans nearby Bluetooth signals to detect recording-capable wearables around you.</string>
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>SpectraSense uses Bluetooth to detect nearby smart glasses.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Bluetooth scanning on iOS requires location permission.</string>
