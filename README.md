@@ -50,3 +50,8 @@ lib/
 ## Ethics / legal note
 This tool is for **personal privacy awareness** — knowing what may be recording near you. It must stay passive (listen only, never connect to others' devices) and must never be used to track identified individuals. Bluetooth-scanning apps face app-store scrutiny and jurisdiction-specific consent laws; get a legal pass before public release.
 # SpectraSense
+
+## Contributors
+
+- [@Ferousco-dev](https://github.com/Ferousco-dev) — creator & maintainer
+- [@feranmioresajo-afk](https://github.com/feranmioresajo-afk) — contributor
